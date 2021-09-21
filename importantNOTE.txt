@@ -1,0 +1,4 @@
+# generate similarity.pkl file
+I also generated but unable to upload it to github due to size limit.
+# to generate this file go to       movies-recommender-system\jupyterNotebookProcessing\movie-recommender-system.ipynb
+in the end of the above ipynb file there is the code to generate similarity.ipynb file
